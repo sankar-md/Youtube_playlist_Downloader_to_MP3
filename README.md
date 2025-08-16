@@ -1,7 +1,5 @@
 # 🎵 How to Download YouTube Playlist as MP3 (Step by Step Guide)
 
-This guide will help **any beginner**, even if you are new to
-computers.\
 We will use **Google Colab** (free online tool) to download songs from a
 YouTube playlist and save them as MP3.
 
