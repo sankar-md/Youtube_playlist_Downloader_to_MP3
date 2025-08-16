@@ -21,7 +21,7 @@ Follow these steps in **Google Colab**:
 
 1. Open a new **Google Colab notebook** → [Google Colab](https://colab.research.google.com/)  
 2. Copy-paste the script main.py
-3. Replace the link with the youtube playlist link
+3. Replace the playlist_url with the youtube playlist link
 4. Run the code and wait for it to complete
 
 ## Download the zip file now!
